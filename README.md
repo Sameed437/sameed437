@@ -19,7 +19,7 @@ I'm a web developer based in **Pakistan 🇵🇰**, specializing in building mod
 - 🤖 &nbsp;Passionate about **automation** — building smart workflows with n8n, Claude API & more
 - 🧪 &nbsp;QA background that keeps my code clean, tested, and production-ready
 - 💬 &nbsp;Ask me about **React, Next.js, WordPress, WooCommerce, or SEO automation**
-- 📫 &nbsp;Reach me at: **[your@email.com](mailto:your@email.com)**
+- 📫 &nbsp;Reach me at: **[msameedch437@gmail.com](mailto:msameedch437@gmail.com)**
 
 ---
 
